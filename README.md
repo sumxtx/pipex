@@ -2,7 +2,7 @@
 ---
 *This project aims to deepen your understanding of the two concepts:*  
   
-    ** __Redirections and Pipes__ **  
+    **_Redirections and Pipes_**  
   
 *It is an introductory project for the bigger UNIX projects that will appear  
 later on in the cursus.*  
