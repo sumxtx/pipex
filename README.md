@@ -1,7 +1,9 @@
 # Pipex 
 ---
 *This project aims to deepen your understanding of the two concepts:*  
-</br>    **_Redirections and Pipes_**  </br>
+</br>
+**_Redirections and Pipes_**
+</br>
 *It is an introductory project for the bigger UNIX projects that will appear  
 later on in the cursus.*  
   
